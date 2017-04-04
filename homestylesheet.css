@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	body{
+		/*background-color:black;*/
+/*background-image: url(upfeathers.png);*/
+		background-attachment: fixed;
+		color:whitesmoke;
+		text-align:center;
+		font-family:"Poiret One"; 
+	}
+	
+	#bottom{
+		background-color:black;
+		padding:20px;
+	}
+	
+	#bottom img{
+		margin-top:-300px;
+	}
+	
+	#top{
+		min-height:300px;
+	}
+	
+	h1,h2
+	{
+		background-color: black;
+		color: white;
+		text-align: center;
+		
+	}
+	/*h1{
+		text-align: left;
+	}*/
+	
+	
+	
+	a {
+		color: white;
+		text-decoration: none;
+	}
+	
+	a:hover {
+		color: yellow;
+		text-decoration: underline;
+	}
+	
+	a:visited{
+		color:aqua;
+	}
+	footer {
+		color: black;
+		
+	}
