@@ -1,0 +1,737 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="14.12WEB" resolutions="1x" timestamp="1576352300319">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4036464230" ref="characterdesign:indugenous:about-me:logos:marktwirtschaft:info-graphic:layouts:halloween:posters:sezzle:index:noblechairs:children:projects:illustration:uke:contact"/>
+    <file name="characterdesign.css" crc="4137472728" ref="characterdesign"/>
+    <file name="indugenous.css" crc="174458300" ref="indugenous"/>
+    <file name="about-me.css" crc="433546475" ref="about-me"/>
+    <file name="logos.css" crc="316827710" ref="logos"/>
+    <file name="marktwirtschaft.css" crc="3770623760" ref="marktwirtschaft"/>
+    <file name="info-graphic.css" crc="4222769251" ref="info-graphic"/>
+    <file name="layouts.css" crc="4090636351" ref="layouts"/>
+    <file name="halloween.css" crc="3807320406" ref="halloween"/>
+    <file name="posters.css" crc="222534702" ref="posters"/>
+    <file name="sezzle.css" crc="206423688" ref="sezzle"/>
+    <file name="index.css" crc="256842529" ref="index"/>
+    <file name="noblechairs.css" crc="4269922749" ref="noblechairs"/>
+    <file name="children.css" crc="228794156" ref="children"/>
+    <file name="projects.css" crc="261982595" ref="projects"/>
+    <file name="illustration.css" crc="420228385" ref="illustration"/>
+    <file name="uke.css" crc="4205574891" ref="uke"/>
+    <file name="contact.css" crc="66252578" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="inidilandingfinal.mp4" crc="4123790154" seo="true" mt="1576167169000"/>
+    <file name="finalweb.mp4" crc="438852238" seo="true" mt="1576206495000"/>
+    <file name="finalweb.webm" crc="3973674146" seo="true" mt="1576207279000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="museutils.js" crc="340535759" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="museconfig.js" crc="310584261" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:about-me"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:contact:about-me"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u2122.php" crc="3954884379" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="require.js" crc="7928878" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="form-u9219.php" crc="488924959" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="4129575740" seo="true" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:contact">
+      <caption webpage="halloween" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="uke" alt=""/>
+      <caption webpage="marktwirtschaft" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="indugenous" alt=""/>
+      <caption webpage="sezzle" alt=""/>
+      <caption webpage="posters" alt=""/>
+      <caption webpage="characterdesign" alt=""/>
+      <caption webpage="children" alt=""/>
+      <caption webpage="noblechairs" alt=""/>
+      <caption webpage="layouts" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="info-graphic" alt=""/>
+    </file>
+    <file name="u213-4.png" crc="3971831031" ref="index"/>
+    <file name="900 copy.jpg" crc="4199675811" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1866-4.png" crc="4049039839" ref="index"/>
+    <file name="u2118-4.png" crc="4257886307" ref="index"/>
+    <file name="uke handlde-layer 1.png" crc="3922526138" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uke handlde.jpg" crc="3944595212" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indihandle-layer 1.png" crc="3786458461" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indihandle.jpg" crc="4281896278" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landhandler-layer 1.png" crc="271562197" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landhandler.jpg" crc="3775985817" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-layer 1.png" crc="3876074038" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="355396163" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2903-4-a.png" crc="4088237767" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:contact:about-me"/>
+    <file name="u2882.png" crc="434326616" ref="index"/>
+    <file name="u2882-a.png" crc="19236521" ref="index"/>
+    <file name="u7706.png" crc="4152850378" ref="index"/>
+    <file name="u7706-a.png" crc="246499334" ref="index"/>
+    <file name="u8277.png" crc="3786988039" ref="index"/>
+    <file name="u8277-a.png" crc="3976822707" ref="index"/>
+    <file name="u7992.png" crc="4268139615" ref="index"/>
+    <file name="u7992-a.png" crc="4153944073" ref="index"/>
+    <file name="sezzlehand-layer 1.jpg" crc="213525394" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sezzlehand.jpg" crc="4170920830" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handle-layer 1.png" crc="4272504830" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handle.jpg" crc="271483809" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-layer 1.jpg" crc="501318615" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-12.jpg" crc="3794549344" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handle-layer 12.png" crc="3992800374" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handle2.jpg" crc="4272891959" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hnadle-layer 1.jpg" crc="4027565023" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hnadle.jpg" crc="4244878079" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-layer 12.jpg" crc="258781674" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-13.jpg" crc="445833458" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-layer 13.jpg" crc="377221894" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-14.jpg" crc="3911937533" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-layer 14.jpg" crc="45962223" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-15.jpg" crc="4143992036" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u223-4.png" crc="4051557208" ref="index"/>
+    <file name="immigrantes.jpg" crc="310631758" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handshoe.jpg" crc="302357807" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sopranos-u1818-fr.jpg" crc="3782781463" ref="index"/>
+    <file name="theballerina.jpg" crc="3812183485" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16.jpg" crc="456772041" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pataki-u1767-fr.jpg" crc="487064019" ref="index"/>
+    <file name="thevillage-u1776-fr.jpg" crc="4200708051" ref="index"/>
+    <file name="eyes.jpg" crc="92741762" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38.jpg" crc="3825545106" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4038176120" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="treeoflife1.jpg" crc="491868231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tschusdland-u1829-fr.jpg" crc="349109814" ref="index"/>
+    <file name="theather.jpg" crc="30895783" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="theboy.jpg" crc="3807940450" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thequeen.jpg" crc="4261313495" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="901.jpg" crc="4034483688" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pataki.jpg" crc="3935611966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hiphop.jpg" crc="4063556929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thevillage.jpg" crc="4131588564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nightlife.jpg" crc="392838151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tschusdland.jpg" crc="3997866308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sopranos.jpg" crc="369045848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="legfashion.jpg" crc="116521985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u536-4.png" crc="316589111" ref="index"/>
+    <file name="903.jpg" crc="3768412762" ref="index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="profiledesign.jpg" crc="4082488630" seo="true" ref="index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u636-19.png" crc="4134722352" ref="index"/>
+    <file name="screen shot 2019-12-14 at 140027.jpg" crc="316420792" ref="index:about-me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u1876-4.png" crc="3883450684" ref="index"/>
+    <file name="u8950-4.png" crc="525619893" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="u8951-4.png" crc="371637900" ref="index:projects:uke:indugenous:marktwirtschaft:layouts:sezzle:children:posters:characterdesign:logos:info-graphic:halloween:noblechairs:illustration:contact:about-me"/>
+    <file name="u8620-4.png" crc="278790350" ref="projects"/>
+    <file name="u8611-4-a.png" crc="3938102893" ref="projects"/>
+    <file name="u8606.png" crc="3889226099" ref="projects"/>
+    <file name="u8606-a.png" crc="3892124853" ref="projects"/>
+    <file name="u8584.png" crc="4254799819" ref="projects"/>
+    <file name="u8584-a.png" crc="72979135" ref="projects"/>
+    <file name="u8599.png" crc="71475568" ref="projects"/>
+    <file name="u8599-a.png" crc="3837942293" ref="projects"/>
+    <file name="u3395-4-a.png" crc="455547165" ref="projects"/>
+    <file name="u3419-4.png" crc="278790350" ref="uke"/>
+    <file name="u3415.png" crc="3938102893" ref="uke"/>
+    <file name="u3415-a.png" crc="3938102893" ref="uke"/>
+    <file name="u7458.png" crc="3889226099" ref="uke"/>
+    <file name="u7458-a.png" crc="3889226099" ref="uke"/>
+    <file name="u8024.png" crc="4254799819" ref="uke"/>
+    <file name="u8024-a.png" crc="4254799819" ref="uke"/>
+    <file name="u7739.png" crc="71475568" ref="uke"/>
+    <file name="u7739-a.png" crc="71475568" ref="uke"/>
+    <file name="u3539-4.png" crc="3954232652" ref="uke"/>
+    <file name="ubanuke.jpg" crc="3943314325" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="img_2799.jpg" crc="3895735767" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="uke1plakarte1111111.jpg" crc="138538410" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="uke2print22222.jpg" crc="6179880" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="newuke3333333.jpg" crc="4283331782" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-12 at 090258.jpg" crc="4092954133" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="artboard1ettt.jpg" crc="3855136992" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="artboard 2.jpg" crc="44876504" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="artboard 3.jpg" crc="3853781454" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-12 at 081550.jpg" crc="3938486165" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-12 at 082805.jpg" crc="304749222" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="img_2803.jpg" crc="3974482222" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-12 at 091524.jpg" crc="4035753816" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-12 at 091802.jpg" crc="536393438" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="story board.png" crc="4261431217" ref="uke">
+      <caption webpage="uke" alt=""/>
+    </file>
+    <file name="u3792-4.png" crc="3944332227" ref="uke"/>
+    <file name="u3830-4.png" crc="278790350" ref="indugenous"/>
+    <file name="u3824.png" crc="3938102893" ref="indugenous"/>
+    <file name="u3824-a.png" crc="3938102893" ref="indugenous"/>
+    <file name="u7477.png" crc="3889226099" ref="indugenous"/>
+    <file name="u7477-a.png" crc="3889226099" ref="indugenous"/>
+    <file name="u8047.png" crc="4254799819" ref="indugenous"/>
+    <file name="u8047-a.png" crc="4254799819" ref="indugenous"/>
+    <file name="u7762.png" crc="71475568" ref="indugenous"/>
+    <file name="u7762-a.png" crc="71475568" ref="indugenous"/>
+    <file name="u3839-4.png" crc="3967672630" ref="indugenous"/>
+    <file name="indi18.jpg" crc="3943228741" ref="indugenous">
+      <caption webpage="indugenous" alt=""/>
+    </file>
+    <file name="updateappindi.jpg" crc="4166977001" ref="indugenous">
+      <caption webpage="indugenous" alt=""/>
+    </file>
+    <file name="indi8updatepsd.jpg" crc="77564072" ref="indugenous">
+      <caption webpage="indugenous" alt=""/>
+    </file>
+    <file name="indiapp.jpg" crc="209332515" ref="indugenous">
+      <caption webpage="indugenous" alt=""/>
+    </file>
+    <file name="indigenosu1png.png" crc="3987631169" ref="indugenous">
+      <caption webpage="indugenous" alt=""/>
+    </file>
+    <file name="u4026-4.png" crc="278790350" ref="marktwirtschaft"/>
+    <file name="u4046.png" crc="3938102893" ref="marktwirtschaft"/>
+    <file name="u4046-a.png" crc="3938102893" ref="marktwirtschaft"/>
+    <file name="u7500.png" crc="3889226099" ref="marktwirtschaft"/>
+    <file name="u7500-a.png" crc="3889226099" ref="marktwirtschaft"/>
+    <file name="u8070.png" crc="4254799819" ref="marktwirtschaft"/>
+    <file name="u8070-a.png" crc="4254799819" ref="marktwirtschaft"/>
+    <file name="u7785.png" crc="71475568" ref="marktwirtschaft"/>
+    <file name="u7785-a.png" crc="71475568" ref="marktwirtschaft"/>
+    <file name="u4057-5.png" crc="162824955" ref="marktwirtschaft"/>
+    <file name="bus stop billboard mockup.jpg" crc="4229634713" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="10.jpg" crc="3848201899" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="4.jpg" crc="520417091" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="2.jpg" crc="236032611" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4175579998" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4163343537" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="u4417-5.png" crc="468908017" ref="marktwirtschaft"/>
+    <file name="6.jpg" crc="311454095" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="72.jpg" crc="4096049228" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="11.jpg" crc="128255612" ref="marktwirtschaft">
+      <caption webpage="marktwirtschaft" alt=""/>
+    </file>
+    <file name="u4453-4.png" crc="278790350" ref="layouts"/>
+    <file name="u4476.png" crc="3938102893" ref="layouts"/>
+    <file name="u4476-a.png" crc="3938102893" ref="layouts"/>
+    <file name="u7518.png" crc="3889226099" ref="layouts"/>
+    <file name="u7518-a.png" crc="3889226099" ref="layouts"/>
+    <file name="u8090.png" crc="4254799819" ref="layouts"/>
+    <file name="u8090-a.png" crc="4254799819" ref="layouts"/>
+    <file name="u7805.png" crc="71475568" ref="layouts"/>
+    <file name="u7805-a.png" crc="71475568" ref="layouts"/>
+    <file name="u4433-5.png" crc="170467834" ref="layouts"/>
+    <file name="screen shot 2019-12-11 at 114624.jpg" crc="3958034951" ref="layouts">
+      <caption webpage="layouts" alt=""/>
+    </file>
+    <file name="pinkcollelandingp.jpg" crc="4270501734" ref="layouts">
+      <caption webpage="layouts" alt=""/>
+    </file>
+    <file name="landingp2 copy.jpg" crc="400083022" ref="layouts">
+      <caption webpage="layouts" alt=""/>
+    </file>
+    <file name="app layout.jpg" crc="200172484" ref="layouts">
+      <caption webpage="layouts" alt=""/>
+    </file>
+    <file name="u4686-4.png" crc="278790350" ref="sezzle"/>
+    <file name="u4694.png" crc="3938102893" ref="sezzle"/>
+    <file name="u4694-a.png" crc="3938102893" ref="sezzle"/>
+    <file name="u7539.png" crc="3889226099" ref="sezzle"/>
+    <file name="u7539-a.png" crc="3889226099" ref="sezzle"/>
+    <file name="u8110.png" crc="4254799819" ref="sezzle"/>
+    <file name="u8110-a.png" crc="4254799819" ref="sezzle"/>
+    <file name="u7825.png" crc="71475568" ref="sezzle"/>
+    <file name="u7825-a.png" crc="71475568" ref="sezzle"/>
+    <file name="u4667-5.png" crc="44678069" ref="sezzle"/>
+    <file name="eb702977-908d-4828-b495-4a944f19885a.jpg" crc="3884638798" ref="sezzle">
+      <caption webpage="sezzle" alt=""/>
+    </file>
+    <file name="42.jpg" crc="383140725" ref="sezzle">
+      <caption webpage="sezzle" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4025616080" ref="sezzle">
+      <caption webpage="sezzle" alt=""/>
+    </file>
+    <file name="57.jpg" crc="3945727613" ref="sezzle">
+      <caption webpage="sezzle" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4095430050" ref="sezzle">
+      <caption webpage="sezzle" alt=""/>
+    </file>
+    <file name="updatedsezzle13.jpg" crc="4147583174" ref="sezzle">
+      <caption webpage="sezzle" alt=""/>
+    </file>
+    <file name="unknown-9.jpg" crc="150346802" ref="sezzle">
+      <caption webpage="sezzle" alt=""/>
+    </file>
+    <file name="u4949-4.png" crc="278790350" ref="children"/>
+    <file name="u4929.png" crc="3938102893" ref="children"/>
+    <file name="u4929-a.png" crc="3938102893" ref="children"/>
+    <file name="u7561.png" crc="3889226099" ref="children"/>
+    <file name="u7561-a.png" crc="3889226099" ref="children"/>
+    <file name="u8131.png" crc="4254799819" ref="children"/>
+    <file name="u8131-a.png" crc="4254799819" ref="children"/>
+    <file name="u7846.png" crc="71475568" ref="children"/>
+    <file name="u7846-a.png" crc="71475568" ref="children"/>
+    <file name="u4959-5.png" crc="378688084" ref="children"/>
+    <file name="covekinder.jpg" crc="4210123179" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-11 at 120055.jpg" crc="489133142" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-11 at 120226.jpg" crc="4047367821" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-11 at 120133.jpg" crc="513775563" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="rrrrrr.jpg" crc="218351278" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-11 at 120832.jpg" crc="262570656" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="monotypie059.jpg" crc="4133000207" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="monotypie058.jpg" crc="4040852408" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="monotypie057.jpg" crc="429477035" ref="children">
+      <caption webpage="children" alt=""/>
+    </file>
+    <file name="u5231-4.png" crc="278790350" ref="posters"/>
+    <file name="u5211.png" crc="3938102893" ref="posters"/>
+    <file name="u5211-a.png" crc="3938102893" ref="posters"/>
+    <file name="u7582.png" crc="3889226099" ref="posters"/>
+    <file name="u7582-a.png" crc="3889226099" ref="posters"/>
+    <file name="u8154.png" crc="4254799819" ref="posters"/>
+    <file name="u8154-a.png" crc="4254799819" ref="posters"/>
+    <file name="u7869.png" crc="71475568" ref="posters"/>
+    <file name="u7869-a.png" crc="71475568" ref="posters"/>
+    <file name="u5241-5.png" crc="3935478920" ref="posters"/>
+    <file name="blackfilm.jpg" crc="269318968" ref="posters">
+      <caption webpage="posters" alt=""/>
+    </file>
+    <file name="hannekannrennen2.jpg" crc="4168726008" ref="posters">
+      <caption webpage="posters" alt=""/>
+    </file>
+    <file name="hermanzapf.png" crc="109429160" ref="posters">
+      <caption webpage="posters" alt=""/>
+    </file>
+    <file name="untitled-2.jpg" crc="4074932966" ref="posters">
+      <caption webpage="posters" alt=""/>
+    </file>
+    <file name="chig0.jpg" crc="464167132" ref="posters">
+      <caption webpage="posters" alt=""/>
+    </file>
+    <file name="u5448-4.png" crc="278790350" ref="characterdesign"/>
+    <file name="u5428.png" crc="3938102893" ref="characterdesign"/>
+    <file name="u5428-a.png" crc="3938102893" ref="characterdesign"/>
+    <file name="u7602.png" crc="3889226099" ref="characterdesign"/>
+    <file name="u7602-a.png" crc="3889226099" ref="characterdesign"/>
+    <file name="u8174.png" crc="4254799819" ref="characterdesign"/>
+    <file name="u8174-a.png" crc="4254799819" ref="characterdesign"/>
+    <file name="u7889.png" crc="71475568" ref="characterdesign"/>
+    <file name="u7889-a.png" crc="71475568" ref="characterdesign"/>
+    <file name="u5458-5.png" crc="65728385" ref="characterdesign"/>
+    <file name="thewheel.png" crc="472424810" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="electricity.png" crc="321922064" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="gunpowderr1.png" crc="3847973048" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="opticallenense.png" crc="4234990853" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="u5592-7.png" crc="313867536" ref="characterdesign"/>
+    <file name="u5596-6.png" crc="260655760" ref="characterdesign"/>
+    <file name="telephone.png" crc="250908517" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="papermoney.png" crc="3759768621" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="tv.jpg" crc="4057310961" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="penicilininfo.jpg" crc="499347484" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="printingpress.png" crc="23310799" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="vaccination.png" crc="4173528844" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="nuclearfision.png" crc="3969230161" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="internet.png" crc="92945621" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="airplane.png" crc="185831684" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="u5737-41.png" crc="422103614" ref="characterdesign"/>
+    <file name="u5776-5.png" crc="532768125" ref="characterdesign"/>
+    <file name="charater-1_0002.jpg" crc="4026053626" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="charater2_0002.jpg" crc="6278621" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="charater3_0002.jpg" crc="4036649084" ref="characterdesign">
+      <caption webpage="characterdesign" alt=""/>
+    </file>
+    <file name="u5962-4.png" crc="278790350" ref="logos"/>
+    <file name="u5945.png" crc="3938102893" ref="logos"/>
+    <file name="u5945-a.png" crc="3938102893" ref="logos"/>
+    <file name="u7624.png" crc="3889226099" ref="logos"/>
+    <file name="u7624-a.png" crc="3889226099" ref="logos"/>
+    <file name="u8196.png" crc="4254799819" ref="logos"/>
+    <file name="u8196-a.png" crc="4254799819" ref="logos"/>
+    <file name="u7911.png" crc="71475568" ref="logos"/>
+    <file name="u7911-a.png" crc="71475568" ref="logos"/>
+    <file name="u6072-4.png" crc="3823959728" ref="logos"/>
+    <file name="u6086-9.png" crc="277416637" ref="logos"/>
+    <file name="realistic business cards mockup 6.jpg" crc="3942199115" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="group 34.jpg" crc="4101460582" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="u6122-8.png" crc="14562344" ref="logos"/>
+    <file name="eddimock.jpg" crc="3790501061" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="chef eddie.jpg" crc="3893282474" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="u6137-8.png" crc="4217015976" ref="logos"/>
+    <file name="aria.jpg" crc="220657883" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="untitled-4.jpg" crc="3758356072" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="u6170-8.png" crc="339652916" ref="logos"/>
+    <file name="stationery mockup template -sedt.jpg" crc="524493117" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-11 at 105105.jpg" crc="3995927871" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="u6195-8.png" crc="4214517275" ref="logos"/>
+    <file name="mockup.jpg" crc="292016751" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="gonzalologo.png" crc="4089912399" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="u6366-8.png" crc="3999260388" ref="logos"/>
+    <file name="screen shot 2019-12-11 at 113752.jpg" crc="409260974" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4256991853" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="345.jpg" crc="4056296564" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="234.jpg" crc="4003072468" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="41.jpg" crc="3842979373" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="321.jpg" crc="68324156" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="13.jpg" crc="141994064" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="122.jpg" crc="3922167358" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="1222.jpg" crc="54715787" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="u6228-8.png" crc="3951065197" ref="logos"/>
+    <file name="bowtiebash.jpg" crc="4168866214" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="bowtie.png" crc="4069366816" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="u6442-4.png" crc="278790350" ref="info-graphic"/>
+    <file name="u6436.png" crc="3938102893" ref="info-graphic"/>
+    <file name="u6436-a.png" crc="3938102893" ref="info-graphic"/>
+    <file name="u7644.png" crc="3889226099" ref="info-graphic"/>
+    <file name="u7644-a.png" crc="3889226099" ref="info-graphic"/>
+    <file name="u8217.png" crc="4254799819" ref="info-graphic"/>
+    <file name="u8217-a.png" crc="4254799819" ref="info-graphic"/>
+    <file name="u7932.png" crc="71475568" ref="info-graphic"/>
+    <file name="u7932-a.png" crc="71475568" ref="info-graphic"/>
+    <file name="u6451-4.png" crc="4053832470" ref="info-graphic"/>
+    <file name="u6571-7.png" crc="4011878652" ref="info-graphic"/>
+    <file name="insurrrrrrrrrrr.jpg" crc="451218478" ref="info-graphic">
+      <caption webpage="info-graphic" alt=""/>
+    </file>
+    <file name="screen shot 2019-12-13 at 101738.jpg" crc="3904091475" ref="info-graphic">
+      <caption webpage="info-graphic" alt=""/>
+    </file>
+    <file name="finalgraphics.jpg" crc="320680254" ref="info-graphic">
+      <caption webpage="info-graphic" alt=""/>
+    </file>
+    <file name="u6574-7.png" crc="316066198" ref="info-graphic"/>
+    <file name="grafick.jpg" crc="287419883" ref="info-graphic">
+      <caption webpage="info-graphic" alt=""/>
+    </file>
+    <file name="u6649-4.png" crc="278790350" ref="halloween"/>
+    <file name="u6643.png" crc="3938102893" ref="halloween"/>
+    <file name="u6643-a.png" crc="3938102893" ref="halloween"/>
+    <file name="u7664.png" crc="3889226099" ref="halloween"/>
+    <file name="u7664-a.png" crc="3889226099" ref="halloween"/>
+    <file name="u8234.png" crc="4254799819" ref="halloween"/>
+    <file name="u8234-a.png" crc="4254799819" ref="halloween"/>
+    <file name="u7949.png" crc="71475568" ref="halloween"/>
+    <file name="u7949-a.png" crc="71475568" ref="halloween"/>
+    <file name="u6658-4.png" crc="441836251" ref="halloween"/>
+    <file name="unknown-7.jpg" crc="169117918" ref="halloween">
+      <caption webpage="halloween" alt=""/>
+    </file>
+    <file name="unknown-5.jpg" crc="70528576" ref="halloween">
+      <caption webpage="halloween" alt=""/>
+    </file>
+    <file name="unknown-10.jpg" crc="151368519" ref="halloween">
+      <caption webpage="halloween" alt=""/>
+    </file>
+    <file name="unknown-3.jpg" crc="396008741" ref="halloween">
+      <caption webpage="halloween" alt=""/>
+    </file>
+    <file name="unknown-4.jpg" crc="3955365905" ref="halloween">
+      <caption webpage="halloween" alt=""/>
+    </file>
+    <file name="unknown-8.jpg" crc="3775089300" ref="halloween">
+      <caption webpage="halloween" alt=""/>
+    </file>
+    <file name="u6867-4.png" crc="278790350" ref="noblechairs"/>
+    <file name="u6840.png" crc="3938102893" ref="noblechairs"/>
+    <file name="u6840-a.png" crc="3938102893" ref="noblechairs"/>
+    <file name="u7686.png" crc="3889226099" ref="noblechairs"/>
+    <file name="u7686-a.png" crc="3889226099" ref="noblechairs"/>
+    <file name="u8255.png" crc="4254799819" ref="noblechairs"/>
+    <file name="u8255-a.png" crc="4254799819" ref="noblechairs"/>
+    <file name="u7970.png" crc="71475568" ref="noblechairs"/>
+    <file name="u7970-a.png" crc="71475568" ref="noblechairs"/>
+    <file name="u6973-4.png" crc="4192105412" ref="noblechairs"/>
+    <file name="u7083-7.png" crc="3874699169" ref="noblechairs"/>
+    <file name="rednc.jpg" crc="4235499894" ref="noblechairs">
+      <caption webpage="noblechairs" alt=""/>
+    </file>
+    <file name="instagram mockup fan.jpg" crc="4134675638" ref="noblechairs">
+      <caption webpage="noblechairs" alt=""/>
+    </file>
+    <file name="blacknc1.jpg" crc="503850308" ref="noblechairs">
+      <caption webpage="noblechairs" alt=""/>
+    </file>
+    <file name="2bknc.jpg" crc="487046756" ref="noblechairs">
+      <caption webpage="noblechairs" alt=""/>
+    </file>
+    <file name="socialmedia_mockup.jpg" crc="4123193389" ref="noblechairs">
+      <caption webpage="noblechairs" alt=""/>
+    </file>
+    <file name="greync.jpg" crc="3771640266" ref="noblechairs">
+      <caption webpage="noblechairs" alt=""/>
+    </file>
+    <file name="u9116-4.png" crc="278790350" ref="contact"/>
+    <file name="u9106.png" crc="3938102893" ref="contact"/>
+    <file name="u9106-a.png" crc="3938102893" ref="contact"/>
+    <file name="u9130.png" crc="3889226099" ref="contact"/>
+    <file name="u9130-a.png" crc="3892124853" ref="contact"/>
+    <file name="u9121.png" crc="4254799819" ref="contact"/>
+    <file name="u9121-a.png" crc="72979135" ref="contact"/>
+    <file name="u9134-4-a.png" crc="3837942293" ref="contact"/>
+    <file name="u9099-4.png" crc="4276326008" ref="contact"/>
+    <file name="u8777-4.png" crc="278790350" ref="about-me"/>
+    <file name="u8791.png" crc="3938102893" ref="about-me"/>
+    <file name="u8791-a.png" crc="3938102893" ref="about-me"/>
+    <file name="u8782.png" crc="3889226099" ref="about-me"/>
+    <file name="u8782-a.png" crc="3892124853" ref="about-me"/>
+    <file name="u8769-4-a.png" crc="72979135" ref="about-me"/>
+    <file name="u8763.png" crc="71475568" ref="about-me"/>
+    <file name="u8763-a.png" crc="3837942293" ref="about-me"/>
+    <file name="u8754-4.png" crc="327001742" ref="about-me"/>
+    <file name="u8960-19.png" crc="4134722352" ref="about-me"/>
+  </folder>
+  <file name="index.html" crc="4106662870" seo="true" mt="1576351918287" redirect="true"/>
+  <file name="projects.html" crc="533512329" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="uke.html" crc="4137774930" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="indugenous.html" crc="454596077" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="marktwirtschaft.html" crc="3867464972" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="layouts.html" crc="420835777" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="sezzle.html" crc="3848833794" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="children.html" crc="4283303597" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="posters.html" crc="3877567679" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="characterdesign.html" crc="3780900006" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="logos.html" crc="4045112904" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="info-graphic.html" crc="3800802608" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="halloween.html" crc="237490663" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="noblechairs.html" crc="171671019" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="illustration.html" crc="4049995775" seo="true" mt="1576351736993" redirect="true"/>
+  <file name="contact.html" crc="4283149897" seo="true" mt="1576352048088" redirect="true"/>
+  <file name="about-me.html" crc="174193930" seo="true" mt="1576351807947" redirect="true"/>
+</manifest>
